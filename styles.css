@@ -4,7 +4,7 @@
   }
   
   .bg-img1 {
-    background: url(./images/Gallery_20240720_042040.png);
+    background: url(./images/Gallery_20240831_113015.png);
     background-repeat: no-repeat;
     height: 20vh;
     width: 100%;
@@ -41,7 +41,7 @@
     justify-content: space-between;
     color:purple;
     padding: 20px;
-    margin-top: 70px;
+    margin-top: 100px;
     margin-left: -40px;
   }
   .navbar h2 {
