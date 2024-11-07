@@ -44,7 +44,7 @@
 }
 
 .navbar ul li a {
-  margin-right: 40px;
+  margin-right: 20px;
   padding: 10px;
   text-decoration: underline;
   text-underline-offset: 0.5em;
@@ -67,6 +67,8 @@
   color: #000000;
   text-align: center;
   font-weight: bold;
+  margin-left: -40px;
+  margin-top: 80px;
 }
 
 .carousel-caption {
