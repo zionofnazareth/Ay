@@ -3,21 +3,26 @@
   margin: 0;
 }
 
-.bg-img1 {
-  background-image: url(./newimages/Gallery_20241105_110248.png);
-}
 
-.bg-img2 {
+
+.bg-img1 {
   background-image: url(./newimages/Gallery_20241105_105532.png);
 }
 
-.bg-img3 {
-  background-image: url(./newimages/Gallery_20241105_110016.png);
+.bg-img2 {
+  background-image: url(./newimages/Gallery_20241105_105746.png);
   
 }
-.bg-img4{
-  background-image: url(./newimages/Gallery_20241105_105746.png);
+
+.bg-img3 {
+  background-image: url(./newimages/Gallery_20241105_105532.png);
 }
+
+.bg-img4 {
+  background-image: url(./newimages/Gallery_20241105_105746.png);
+  
+}
+
 .courasel-image {
   height: 100vh;
   background-repeat: no-repeat;
@@ -31,6 +36,7 @@
   justify-content: space-between;
   color:green;
   padding: 20px;
+
 }
 .navbar h2 {
   margin-left: 20px;
@@ -52,6 +58,7 @@
   font-weight: bold;
   list-style: none;
   color: green;
+  margin-top: 90px;
 }
 
 .navbar ul li a:hover {
@@ -68,7 +75,7 @@
   text-align: center;
   font-weight: bold;
   margin-left: -40px;
-  margin-top: 80px;
+  margin-top: 70px;
 }
 
 .carousel-caption {
